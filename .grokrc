@@ -1,0 +1,8 @@
+# Agent-SDD Framework Auto-Detection
+# This file signals that Agent-SDD framework is present
+# When grok encounters /sdd-task commands, it should:
+# 1. Read .grok/GROK.md for framework instructions
+# 2. Follow the established protocols
+FRAMEWORK_ACTIVE=true
+FRAMEWORK_TYPE=agent-sdd-grok
+INSTRUCTIONS=.grok/GROK.md

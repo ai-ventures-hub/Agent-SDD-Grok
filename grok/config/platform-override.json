@@ -1,0 +1,6 @@
+{
+  "platform_override": "grok",
+  "override_reason": "switching_to_grok",
+  "override_timestamp": "2025-10-02T16:30:00Z",
+  "user_selected_platform": "grok"
+}
